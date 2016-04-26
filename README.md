@@ -1,5 +1,6 @@
 # DDHelper
 阿里巴巴钉钉签名生成.NET帮助类
+![DingTalk PC](https://github.com/JackWangCUMT/DDHelper/blob/master/DingTalk_PC.jpg)
 ## 钉钉客户端开发JS-API认证 ##
 
 **钉钉（DingTalk）** 是阿里巴巴集团专为中国企业打造的免费沟通和协同的多端平台，提供PC版，Web版和手机版，支持手机和电脑间文件互传 。
