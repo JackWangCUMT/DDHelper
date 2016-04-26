@@ -3,7 +3,13 @@ using System.Text;
 using System.Security.Cryptography;
 using Suite.Corp;
 using System.Collections;
-
+/*
+* Author：JackWangCUMT
+* Date:2016-04-26 8:36
+* Blogs:http://www.cnblogs.com/isaboy
+* GitHub:https://github.com/JackWangCUMT
+* QQ:308106637
+*/
 namespace myDDDev
 {
     public static class DingTalkAuth
