@@ -14,7 +14,7 @@
 - 计算sh1值：signature = sha1(str);
 
 ###.NET 签名生成算法###
-```
+```javascript
 
     public static class DingTalkAuth
     {
